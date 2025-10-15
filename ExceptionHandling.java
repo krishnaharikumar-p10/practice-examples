@@ -17,7 +17,7 @@ public class ExceptionHandling {
 		try {
 			j=20/i;
 			if (j==0) {
-				throw new CustomException("result is zero,throwing custom exception ");
+				throw new CustomException("j is zero,throwing custom exception ");
 			}
 			char c=str.charAt(9);
 		}
@@ -42,3 +42,4 @@ public class ExceptionHandling {
 	}
 
 }
+
