@@ -38,8 +38,10 @@ public class ExceptionHandling {
 		finally {
 			System.out.println("Execution finished");
 		}
+		System.out.println(j);
 		
 	}
 
 }
+
 
