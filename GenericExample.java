@@ -21,7 +21,7 @@ class Home<T>{
 	}
 	
 	public String toString() {
-		return "name :"+name+ " " +"data: "+data; 
+		return "name :" + name + " " + "data: " + data; 
 	}
 
 }
